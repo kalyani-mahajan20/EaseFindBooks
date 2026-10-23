@@ -116,10 +116,10 @@ Only public-domain books are provided through Project Gutenberg. Modern copyrigh
 
 ## 👥 Team
 
-* **Vikas Shejul** — Team Leader
-* **Yash Patil** — Developer
-* **Suresh Rathod** — Developer
-* **Kalyani Mahajan** — Developer
+* **Kalyani Mahajan**
+* **Vikas Shejul**
+* **Yash Patil**
+* **Suresh Rathod**
 
 ---
 
